@@ -3,7 +3,7 @@
 This app gives you an offer price for buying scrap gold
 
 * go to https://github.com/CaloCorp/riffy and fork and clone the repo. 
-*this app uses node. if you do not have node you can download it here: https://www.guru99.com/download-install-node-js.html
+* this app uses node. if you do not have node you can download it here: https://www.guru99.com/download-install-node-js.html
 
 
 
