@@ -10,6 +10,7 @@ This app gives you an offer price for buying scrap gold
 ## How to use this app
 
 This app takes in 3 arguments a purity, a weight, & the spot price. 
+Remember purity is a number from 1-24
 You will run `node main.js` and input the number of karats of gold which you have discovered, how much it weights, and the spot price of gold in the unit of weight you choose. 
 Make sure to use your local currency
 
